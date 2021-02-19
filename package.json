@@ -1,0 +1,13 @@
+{
+  "name": "webpack-loader",
+  "version": "1.0.0",
+  "description": "自定义 webpack loader",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "接水怪",
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
